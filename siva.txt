@@ -1,0 +1,7 @@
+<html>
+<body>
+<h1>hii,this is siva<h1>
+<applet code="fristApplet.class"width="500" height="600">
+</applet>
+</body>
+</html>

@@ -1,0 +1,82 @@
+body{
+	height: 100%;
+	width:100%; 
+	margin: 0;
+}
+a{
+	text-decoration: none;
+ background-color: transparent;
+ color: #ededed;
+}
+
+#background-image{
+	background-image: url("intro-bg_1.jpg");
+	height:450px;
+	width:480;
+
+	padding-top:0px;
+	color: #ffff;
+	margin-top:0px;
+	margin-left: 100px;
+	margin-right: 100px;
+
+}
+#content{
+	background-color: rgba(0,0,0,0.7);
+	max-width:650px;
+	margin-bottom: 50%;
+	padding:50px 20PX;
+	margin-top: 20px;
+}
+#left{
+	float: left;
+	padding: 10px 10px;
+	margin-left: 150px;
+ 	font-weight: bold
+}   
+#right
+{
+	float: right;
+	margin: 10px;
+	margin-right:150px;
+}
+#items{
+	padding-left: 10px;
+	margin-left: 200px;
+	margin-bottom:5px;
+	border: 1px solid silver;
+	margin-top:1px;
+	padding: 5px;
+	float: left;
+
+}
+#watch{
+
+	margin-left:30px;
+	margin-bottom:5px;
+	border: 1px solid silver;
+	margin-top:1px;
+	padding: 5px;
+	float: left;
+}
+#shirt{
+
+	margin-left:30px;
+	margin-bottom:5px;
+	border: 1px solid silver;
+	margin-top:1px;
+	padding: 5px;
+	float: left;
+}
+#footer{
+	background-color: #000;
+	color:#fff;
+ 	font-size:8px;
+ 	float:right;
+ 	margin-right:100px;
+ 	max-width:1200px;
+ 	padding: 5px 5px;
+ 	padding-top: 1.5%;
+ 	margin-bottom: 50px;
+ 	min-width: 1060px;
+}
